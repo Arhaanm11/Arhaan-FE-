@@ -15,7 +15,7 @@ Else
 Printf(“the number %d is odd .\n”,n); 
 Return 0; 
 \*output 
-Enter a number:59 
+Enter a number:49
 The number 59 is odd . 
 Process returned 0 (0x0)   execution time : 14.282 s 
 Press any key to continue.
